@@ -89,7 +89,7 @@ export default function App() {
       <header className="flex justify-between items-center px-12 py-8 border-b border-[#1A1A1A]/10">
         <div className="flex items-baseline space-x-4">
           <span className="text-xs tracking-widest uppercase font-sans font-bold">Round 04</span>
-          <h1 className="text-4xl italic font-light">The Executioner's Word</h1>
+          <h1 className="text-4xl italic font-light">HANGMAN</h1>
         </div>
         <div className="flex space-x-12">
           <div className="flex flex-col">

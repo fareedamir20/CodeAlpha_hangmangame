@@ -1,5 +1,5 @@
 {
-  "name": "Console Hangman",
+  "name": "HANGMAN",
   "description": "A classic text-based console hangman game.",
   "requestFramePermissions": [],
   "majorCapabilities": []
